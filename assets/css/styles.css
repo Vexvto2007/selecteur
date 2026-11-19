@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Eater&family=Short+Stack&display=swap');
+ol>li:first-child{
+    color: blue;
+}
+
+ol>li:first-child>ul>li{
+    color: red;
+}
+
+ol>li:first-child li:last-child{
+    color: green;
+}
+
+p span span{
+    color: pink;
+}
+
+body{
+    font-family: "Short Stack", cursive;
+}
+
+
